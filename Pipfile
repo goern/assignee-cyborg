@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 jupyter = "*"
 igitt = {git = "https://gitlab.com/gitmate/open-source/IGitt.git"}
+dvc = "*"
 
 [dev-packages]
 
